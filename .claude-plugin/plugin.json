@@ -1,0 +1,6 @@
+{
+  "name": "bouclier-infra",
+  "version": "0.1.0",
+  "description": "Garde-fou commandes à risque, journal d'audit, contexte kube/docker/git, revue sécu des fichiers infra et outils réseau (/cidr, /port, /cve).",
+  "types": "./types/index.d.ts"
+}

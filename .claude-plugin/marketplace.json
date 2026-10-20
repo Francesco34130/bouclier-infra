@@ -1,0 +1,5 @@
+{
+  "name": "bouclier-infra",
+  "owner": { "name": "Francesco34130" },
+  "plugins": [{ "name": "bouclier-infra", "source": "./" }]
+}
